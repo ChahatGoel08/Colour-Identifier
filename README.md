@@ -1,0 +1,2 @@
+# Colour-Identifier
+IT WILL DETECT THE COLOURS OF THE IMAGE.
